@@ -1,1 +1,1 @@
-# ShellConfig
+# Bash
